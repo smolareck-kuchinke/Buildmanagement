@@ -56,3 +56,19 @@ War nicht der Fall, also installiert und Umgebungsvariablen ergänzt und nun ver
 
 ![Gradle](images/version.png)
 
+### Gradle-Build-Skript
+
+Das zentrale Build-Skript von Gradle ist die Datei `build.gradle`, diese wird für die automatische Ausführung des gesamten Build-Prozesses verwendet. 
+
+![Gradle Build-Skript](images/gradle-build.png)
+
+Hier sieht man Folgendes:
+
+- das verwendete Application-Plugin
+- das Repository Maven Central
+- externe Abhängigkeiten (JUnit, Guava)
+- verwendete Java-Version (Java 21)
+- Main-Klasse
+- Testkonfiguration
+
+
