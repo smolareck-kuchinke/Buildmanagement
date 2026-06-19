@@ -44,6 +44,7 @@ Diese wurde im Verzeichnis "target" abgelegt:
 ### Fazit
 Positive Erfahrungen. Die Build-Befehle compile, test und package funktionierten auf Anhieb problemlos. Klare, übersichtliche Projektstruktur über pom.xml, die den Build-Prozess steuert. 
 Hier ein Ausschnitt daraus: 
+
 ![Mavel](images/pom.png)
 
 
@@ -61,6 +62,7 @@ War nicht der Fall, also installiert und wieder wie bei Maven die Umgebungsvaria
 Ich habe zum Ausprobieren ein neues Java-Project erstellt mit dem Gradle-Initalisieurngsassistenten "gradle init":
 Projektart: Application Programmiersprache: Java Build Script DSL: Groovy Test Framework: JUnit Jupiter Projektname: spieltagplus-gradle
 Porjekt wurde erfolgreich erstellt und die Standardstruktur erstellt.
+
 ![Gradle](images/gradle_project.png)
 
 
