@@ -71,7 +71,7 @@ Porjekt wurde erfolgreich erstellt und die Standardstruktur erstellt.
 
 Das zentrale Build-Skript von Gradle ist die Datei `build.gradle`, diese wird für die automatische Ausführung des gesamten Build-Prozesses verwendet. 
 
-![Gradle Build-Skript](images/gradle-build.png)
+![Gradle Build-Skript](images/gradle_build.png)
 
 Hier sieht man Folgendes:
 
