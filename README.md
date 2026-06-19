@@ -6,10 +6,12 @@
 Kurz gecheckt, ob Mavel schon auf meinem PC installiert ist, keien Versionsnumemr also negativ:
 
 ![Mavel](images/maven_check.png)
+
 Neustes Release auf https://maven.apache.org/ heruntergeladen und installiert.
 Danach habe ich auch die Umgebunsgsvariablen MAVEN_HOME und PATH angepasst, damit Windows den Befehl mvn findet und Maven über die Konsole ausführen.
 
 ![Mavel](images/Umgebungsvariablen.png)
+
 Zweiter Check zeigt, dass Maven erfolgreicht inatslliert wurde und JDK21 verwendet.
 
 ![Mavel](images/maven_check2.png)
