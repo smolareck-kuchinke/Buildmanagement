@@ -96,7 +96,7 @@ Und im Verzeichnis libs die JAR-Datei abgelegt. App-Jar ist somit das Ende des B
 
 ### Fazit
 
-Auch das Experemntieren mit Gradle war direkt erfolgreich. "build.gradle" wirkt kompakter und besser lesbar als bei Maven. 
+Auch das Experementieren mit Gradle war direkt erfolgreich. Keine Probleme. "build.gradle" wirkt kompakter und besser lesbar als bei Maven. 
 Durch die Skripte in der DSL gibt es hier mehr flexible Anpassungsmöglichkeiten.
 
 
