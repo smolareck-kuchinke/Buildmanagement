@@ -49,4 +49,10 @@ Hier ein Ausschnitt daraus:
 
 ## GRADLE
 
+### Gradle Installation und Start
+
+Kurz wieder gecheckt, ob Gradle tatsächlich noch nicht installiert ist mit "gradle -version".
+War nicht der Fall, also installiert und Umgebungsvariablen ergänzt und nun version anzeigen lassen: 
+
+![Gradle](images/version.png)
 
