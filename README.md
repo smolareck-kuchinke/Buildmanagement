@@ -19,7 +19,7 @@ Zweiter Check zeigt, dass Maven erfolgreicht inatslliert wurde und JDK21 verwend
 ![Mavel](images/maven_check2.png)
 
 ### Maven-Projekt
-Projekt mit folgenden Projektparametern erstellt und Standardstrutkur inklusive pom.xnl erzeugt.
+Projekt mit folgenden Projektparametern erstellt und Standardstrutkur inklusive pom.xml erzeugt.
 
 ![Mavel](images/maven_project.png)
 
