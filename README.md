@@ -40,6 +40,8 @@ Diese wurde im Verzeichnis "target" abgelegt:
 ![Mavel](images/target.png)
 
 ### Fazit
-Positive Erfahrungen. Die Build-Befehle compile, test und package funktionierten auf Anhieb problemlos. Klare, übersichtliche Projektstruktur über pom.xml. 
+Positive Erfahrungen. Die Build-Befehle compile, test und package funktionierten auf Anhieb problemlos. Klare, übersichtliche Projektstruktur über pom.xml, die den Build-Prozess steuert. 
+Hier ein Ausschnitt daraus: 
+![Mavel](images/pom.png)
 
 
