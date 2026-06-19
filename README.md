@@ -90,7 +90,7 @@ Im Verzeichnis build wurden folgende Verzeichnisse erzeugt:
 ![Gradle Build-Skript](images/gradle_build_folder.png)
 
 
-Und im Verzeichnis libs die JAR-Datei abgelegt. App-Jar ist somit das Ende des Buils-Prozesses.
+Und im Verzeichnis libs die JAR-Datei abgelegt. App-Jar ist somit das Ende des Build-Prozesses.
 
 ![Gradle Build-Skript](images/jar.png)
 
