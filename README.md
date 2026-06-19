@@ -52,9 +52,17 @@ Hier ein Ausschnitt daraus:
 ### Gradle Installation und Start
 
 Kurz wieder gecheckt, ob Gradle tatsächlich noch nicht installiert ist mit "gradle -version".
-War nicht der Fall, also installiert und Umgebungsvariablen ergänzt und nun version anzeigen lassen: 
+War nicht der Fall, also installiert und wieder wie bei Maven die Umgebungsvariablen ergänzt und nun version anzeigen lassen: 
 
 ![Gradle](images/version.png)
+
+### Gradle Projekt
+
+Ich habe zum Ausprobieren ein neues Java-Project erstellt mit dem Gradle-Initalisieurngsassistenten "gradle init":
+Projektart: Application Programmiersprache: Java Build Script DSL: Groovy Test Framework: JUnit Jupiter Projektname: spieltagplus-gradle
+Porjekt wurde erfolgreich erstellt und die Standardstruktur erstellt.
+![Gradle](images/gradle_project.png)
+
 
 ### Gradle-Build-Skript
 
@@ -70,5 +78,25 @@ Hier sieht man Folgendes:
 - verwendete Java-Version (Java 21)
 - Main-Klasse
 - Testkonfiguration
+
+### Build ausgeführt
+Befehl "gradle build" verwendet, erfolgreich Qeullcode kompiliert.
+
+Im Verzeichnis build wurden folgende Verzeichnisse erzeugt:
+
+![Gradle Build-Skript](images/gradle_build_folder.png)
+
+
+Und im Verzeichnis libs die JAR-Datei abgelegt. App-Jar ist somit das Ende des Buils-Prozesses.
+
+![Gradle Build-Skript](images/jar.png)
+
+### Fazit
+
+Auch das Experemntieren mit Gradle war direkt erfolgreich. "build.gradle" wirkt kompakter und besser lesbar als bei Maven. 
+Durch die Skripte in der DSL gibt es hier mehr flexible Anpassungsmöglichkeiten.
+
+
+
 
 
