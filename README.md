@@ -3,7 +3,7 @@
 ## MAVEN
 
 ### Maven Installation und Start
-Kurz gecheckt, ob Mavel schon auf meinem PC installiert ist, keien Versionsnumemr also negativ:
+Kurz gecheckt, ob Mavel schon auf meinem PC installiert ist, keine Versionsnummer vorhanden, also negativ:
 
 ![Mavel](images/maven_check.png)
 
