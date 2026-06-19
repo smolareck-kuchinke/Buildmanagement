@@ -83,7 +83,7 @@ Hier sieht man Folgendes:
 - Testkonfiguration
 
 ### Build ausgeführt
-Befehl "gradle build" verwendet, erfolgreich Qeullcode kompiliert.
+Befehl "gradle build" verwendet, erfolgreich Quellcode kompiliert.
 
 Im Verzeichnis build wurden folgende Verzeichnisse erzeugt:
 
