@@ -1,6 +1,8 @@
 # Buildmanagement
 
+
 ## MAVEN
+
 
 ### Maven Installation und Start
 Kurz gecheckt, ob Mavel schon auf meinem PC installiert ist, keine Versionsnummer vorhanden, also negativ:
@@ -43,5 +45,8 @@ Diese wurde im Verzeichnis "target" abgelegt:
 Positive Erfahrungen. Die Build-Befehle compile, test und package funktionierten auf Anhieb problemlos. Klare, übersichtliche Projektstruktur über pom.xml, die den Build-Prozess steuert. 
 Hier ein Ausschnitt daraus: 
 ![Mavel](images/pom.png)
+
+
+## GRADLE
 
 
